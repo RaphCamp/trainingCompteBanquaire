@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "21THK5C5aH1wnQRWGwWxbrEorXzvfnZheBALMj9VmKKx9+TSFBk+txpJVCwwHIvwnEMYU9TDWfuAFHgbseuI3w==",
+  "success": true,
+  "projectFilePath": "D:\\SOURCE\\DSC-ARGUS\\Training\\ApplicationBancaire\\ApplicationBancaire.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tfs-edokial:8080/tfs/Edokial/_packaging/NugetsV2/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
