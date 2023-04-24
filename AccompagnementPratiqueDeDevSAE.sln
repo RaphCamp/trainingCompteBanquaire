@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationBancaireTest", "AccompagnementPratiqueDeDevSAE\ApplicationBancaireTest.csproj", "{BE48F80C-744C-413F-83B3-28C543B4FAC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationBancaire", "ApplicationBancaire\ApplicationBancaire.csproj", "{599CA81B-19D4-4A07-93DF-04593395D5F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE48F80C-744C-413F-83B3-28C543B4FAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE48F80C-744C-413F-83B3-28C543B4FAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE48F80C-744C-413F-83B3-28C543B4FAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE48F80C-744C-413F-83B3-28C543B4FAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599CA81B-19D4-4A07-93DF-04593395D5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599CA81B-19D4-4A07-93DF-04593395D5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599CA81B-19D4-4A07-93DF-04593395D5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599CA81B-19D4-4A07-93DF-04593395D5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95B26CC-73C6-4EB7-B6BB-3E212C22305D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs-edokial:8080/tfs/edokial
+		SccProjectUniqueName0 = AccompagnementPratiqueDeDevSAE\\ApplicationBancaireTest.csproj
+		SccProjectName0 = AccompagnementPratiqueDeDevSAE
+		SccLocalPath0 = AccompagnementPratiqueDeDevSAE
+		SccProjectUniqueName1 = ApplicationBancaire\\ApplicationBancaire.csproj
+		SccProjectName1 = ApplicationBancaire
+		SccLocalPath1 = ApplicationBancaire
+		SccLocalPath2 = .
+	EndGlobalSection
+EndGlobal
